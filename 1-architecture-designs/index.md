@@ -23,6 +23,11 @@ This folder contains resources related to 1-architecture-designs.
 
 ### architecture-diagrams
 
+#### AI
+
+[Basic AI GPT](ai-basic.drawio)
+
+
 ### system-design
 
 ### network-design
