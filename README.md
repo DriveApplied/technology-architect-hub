@@ -1,6 +1,6 @@
-# Tech Architect Hub
+# Technology Architect Hub
 
-Welcome to the Enterprise Architect Hub, my personal repository dedicated to resources for enterprise and application architecture. This repository is designed to help me access and organize various architectural materials, templates, research, and more.
+Welcome to the Technology Architect Hub, my personal repository dedicated to resources for enterprise and application architecture. This repository is designed to help me access and organize various architectural materials, templates, research, and more.
 
 ## Repository Organization
 
