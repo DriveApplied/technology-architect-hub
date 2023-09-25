@@ -1,39 +1,25 @@
-# 1-architecture-designs
+# architecture-designs
 
-This folder contains resources related to 1-architecture-designs.
+Welcome to the architecture designs section of the Enterprise Architect Hub. This section is dedicated to various architectural design aspects, including architectural diagrams, system design, network design, data architecture, and application design.
 
-## Contents
+## architecture-diagrams
 
-- [1-architecture-designs](#1-architecture-designs)
-    - [Contents](#contents)
-        - [architecture-diagrams](#architecture-diagrams)
-        - [system-design](#system-design)
-        - [network-design](#network-design)
-        - [data-architecture](#data-architecture)
-        - [application-design](#application-design)
-        - [security-design](#security-design)
+Explore architectural diagrams that provide visual representations of complex systems and their components. These diagrams help in communicating and understanding the architectural structure of projects.
 
+## system-design
 
-<!-- - [architecture-diagrams](#architecture-diagrams)
-- [system-design](#system-design)
-- [network-design](#network-design)
-- [data-architecture](#data-architecture)
-- [application-design](#application-design)
-- [security-design](#security-design) -->
+Delve into system design, which focuses on defining the architecture, components, and interactions of software systems. Gain insights into designing robust and scalable systems.
 
-### architecture-diagrams
+## network-design
 
-#### AI
+Discover network design principles, including the layout, configuration, and management of networks. Explore topics related to network architecture and connectivity.
 
-[Basic AI GPT](ai-basic.drawio)
+## data-architecture
 
+Learn about data architecture, which involves designing data models, databases, and storage solutions. Understand how to organize and manage data effectively within your architectural projects.
 
-### system-design
+## application-design
 
-### network-design
+Explore application design concepts, including the design of software applications, user interfaces, and user experiences. Learn about best practices for creating user-friendly and efficient applications.
 
-### data-architecture
-
-### application-design
-
-### security-design
+Feel free to explore each subsection to gain insights into different aspects of architectural design. If you have resources or insights to contribute to any of these areas, please refer to the "Contributions" section in the main README.md for guidance on how to collaborate and share your expertise.
