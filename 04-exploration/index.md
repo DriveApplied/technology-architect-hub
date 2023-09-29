@@ -17,5 +17,3 @@ Delve into the world of programming languages. Learn about new languages, their 
 ## paradigm-shifts
 
 Stay ahead of architectural paradigm shifts. This subsection offers insights into emerging trends, shifts in architectural thinking, and guidance on adapting your approaches to meet the evolving needs of the technology and enterprise architecture.
-
-Feel free to explore each subsection to gain valuable insights and recommendations for your architectural endeavors. If you have resources or insights to contribute to any of these areas, please refer to the "Contributions" section in the main README.md for guidance on how to collaborate and share your expertise.

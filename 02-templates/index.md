@@ -17,5 +17,3 @@ Discover diagram templates that assist you in visualizing complex architectural 
 ## process-templates
 
 Efficiently manage your architectural processes with a range of process templates. From project planning to governance processes, these templates help you establish best practices within your organization.
-
-Feel free to explore each subsection to access and download templates that can enhance your architectural work. If you have templates to contribute or wish to collaborate on template creation, please refer to the "Contributions" section in the main README.md for guidance on how to share your resources with the community.

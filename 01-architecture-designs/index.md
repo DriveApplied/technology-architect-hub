@@ -21,5 +21,3 @@ Learn about data architecture, which involves designing data models, databases, 
 ## application-design
 
 Explore application design concepts, including the design of software applications, user interfaces, and user experiences. Learn about best practices for creating user-friendly and efficient applications.
-
-Feel free to explore each subsection to gain insights into different aspects of architectural design. If you have resources or insights to contribute to any of these areas, please refer to the "Contributions" section in the main README.md for guidance on how to collaborate and share your expertise.
