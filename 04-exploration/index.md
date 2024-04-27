@@ -1,6 +1,6 @@
-# exploration
+# innovation
 
-Welcome to the exploration section of the Enterprise Architect Hub. This section is dedicated to investigating new technology, exploring emerging programming languages, and understanding paradigm shifts in the field of enterprise and technology architecture.
+Welcome to the innovation section of the Enterprise Architect Hub. This section is dedicated to investigating new technology, exploring emerging programming languages, and understanding paradigm shifts in the field of enterprise and technology architecture.
 
 ## learning
 
